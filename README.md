@@ -11,10 +11,10 @@ Use of Web API to fetch book details.
 * Implement Cart Feature to add books and update book counts.
 * Build Checkout Functionality.
 
-#Books API
+# Books API
 https://s3-ap-southeast-1.amazonaws.com/he-public-data/books8f8fe52.json
 
-#Built With
+# Built With
 * Language : HTML/CSS , Javascript
 * Framework : bootstrap
 * Local DB : IndexedDB
