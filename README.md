@@ -1,6 +1,6 @@
-# FrontEnd_hiring_challenge
+# FrontEnd_hiring_challenge (Hackerearth)
 
-# Book Repo - Listing the best book online.
+## Book Repo - Listing the best book online.
 Develop a pseudo Front End Application which would let users browse,search and buy books conveniently.The data is downloaded ,stored and indexed locally.
 
 # Features
